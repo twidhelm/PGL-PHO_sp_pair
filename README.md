@@ -14,5 +14,5 @@ Population file (./popfile_52_samples_4_pops)
 Python code for STRUCTURE analysis:
 Input data [.hdf5 file](./PGL_PHO.snps.hdf5)
 
-### [*P. glabra* reference genome](./../P-glabra_RADseq/Metawatt_sorted_fungal_scaffolds_9JAN18.fasta)
+### [*P. glabra* reference genome](twidhelm/P-glabra_RADseq/Metawatt_sorted_fungal_scaffolds_9JAN18.fasta)
 Contigs sorted with MetaWatt Binner version 3.5.3 in fasta format
